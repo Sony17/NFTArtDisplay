@@ -1,7 +1,7 @@
 
-/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
+// eslint import/no-anonymous-default-export: [2, {"allowObject": true}] 
 
-export default 
+const data  =
 [
 {id:1,img:"https://m5x6e3x8.stackpathcdn.com/1090904/md_ftymdu_5127e2d335ac2a74b6e8feb48db317c16b35d863.jpg"},
 {id:2,img:"https://m5x6e3x8.stackpathcdn.com/1090904/2lrrko_4e5f132fb0f9b7408627a3116ec82828d40b997f.jpg"},
@@ -40,3 +40,4 @@ export default
 {id:35,img: "https://m5x6e3x8.stackpathcdn.com/1090904/mwkhls_4339d6e652643167fd6328253787232ae3a3875a.jpg"}
 
 ]
+export default data;
