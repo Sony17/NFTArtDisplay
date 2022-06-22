@@ -26,7 +26,7 @@ export default function App(props) {
               <span className="credits">Photo by Sony
              
                 <span> on </span> 
-                <a href={photo.img} target="_blank" rel="noopener">  Deep Dream Generator
+                <a href={photo.img} target="_blank" rel="noreferrer">  Deep Dream Generator
                   </a>
               </span>
             </div>
@@ -37,12 +37,12 @@ export default function App(props) {
     <div className='footer'>
     {/* <a href="mailto:sohni2012@gmal.com" class="footer__link">sohni2012@gmail.com</a> */}
     <li class="social-list__item">
-                    <a class="social-list__link" href="https://www.linkedin.com/in/sonyy/"  target="_blank" rel="noopener">
+                    <a class="social-list__link" href="https://www.linkedin.com/in/sonyy/"  target="_blank" rel="noreferrer">
                         <i class="fab fa-linkedin"></i>
                     </a>
                 </li>
                 <li class="social-list__item">
-                    <a class="social-list__link" href="https://www.instagram.com/sony.nft/"  target="_blank" rel="noopener">
+                    <a class="social-list__link" href="https://www.instagram.com/sony.nft/"  target="_blank" rel="noreferrer">
                         <i class="fab fa-instagram"></i>
                     </a>
                 </li>            
