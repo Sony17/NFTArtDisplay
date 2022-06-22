@@ -1,3 +1,6 @@
+
+/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
+
 export default 
 [
 {id:1,img:"https://m5x6e3x8.stackpathcdn.com/1090904/md_ftymdu_5127e2d335ac2a74b6e8feb48db317c16b35d863.jpg"},
